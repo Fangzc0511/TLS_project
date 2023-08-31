@@ -1,0 +1,79 @@
+sample_id	patient_name	dataset_id	dataset_group	Treatment	response	response_NR	M Stage	overall survival (days)	vital status	Total Mutation	Gender	Therapy	age_start	tumor_type	seq_type	id
+ERR2498012	PB-16-045	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498031	PB-16-068	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498033	PB-16-031	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497990	PB-16-005	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497992	PB-16-019	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497993	PB-16-020	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497994	PB-16-021	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498005	PB-16-038	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498011	PB-16-044	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498014	PB-16-048	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498025	PB-16-059	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498028	PB-16-063	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498029	PB-16-066	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497995	PB-16-022	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498002	PB-16-034	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498004	PB-16-037	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498007	PB-16-040	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498009	PB-16-042	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498013	PB-16-047	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498015	PB-16-049	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498019	PB-16-052	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498023	PB-16-054	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498020	PB-16-056	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498027	PB-16-062	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498026	PB-16-064	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498032	PB-16-069	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497988	PB-16-003	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497987	PB-16-002	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497989	PB-16-004	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497991	PB-16-018	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498000	PB-16-023	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497996	PB-16-024	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497997	PB-16-025	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497998	PB-16-029	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2497999	PB-16-030	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498001	PB-16-032	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498003	PB-16-035	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498006	PB-16-039	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498008	PB-16-041	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498010	PB-16-043	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498016	PB-16-051	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498018	PB-16-055	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498021	PB-16-057	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498024	PB-16-060	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR2498030	PB-16-067	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780		PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640819	PB-16-045-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640831	PB-16-068-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640832	PB-16-031-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	CR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640803	PB-16-005-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640804	PB-16-020-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640805	PB-16-021-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640818	PB-16-044-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640820	PB-16-048-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640828	PB-16-063-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PR	R		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640830	PB-16-066-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640806	PB-16-022-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640812	PB-16-037-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640814	PB-16-040-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640816	PB-16-042-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640821	PB-16-049-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640823	PB-16-052-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640827	PB-16-062-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640829	PB-16-064-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640801	PB-16-003-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	SD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640800	PB-16-002-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640802	PB-16-004-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640807	PB-16-023-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640808	PB-16-024-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640809	PB-16-025-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640810	PB-16-030-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640811	PB-16-035-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640813	PB-16-039-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640815	PB-16-041-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640817	PB-16-043-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640822	PB-16-051-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640824	PB-16-055-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640825	PB-16-057-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
+ERR3640826	PB-16-060-N	PRJEB25780	Metastatic_gastric_cancer_PRJEB25780	Normal	PD	N		100				anti-PD-1		Metastatic_gastric_cancer	RNA-seq	Metastatic_gastric_cancer_PRJEB25780_anti-PD-1
